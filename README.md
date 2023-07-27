@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newtonah0" alt="newtonah0" /></a> </p>
 
+- 🌱 I’m currently learning JavaScript, React, and Ruby at Microverse.
+
+- 👯 I’m looking to collaborate on new software development projects.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ahmedmayayhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmedmayayhi" height="30" width="40" /></a>
