@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed  and I'm a Full-stack Software Developer.<br><br>🌍  I'm based in Iraq<br><br>🧠  I'm learning JavaScript, React, and Ruby from Microverse.<br><br>🤝  I'm open to collaborating on I’m looking to collaborate on new software development projects.</h2>
+<h2 align="left">Hi 👋! My name is Ahmed  and I'm a Full-stack Software Developer.</h2><h3><br><br>🌍  I'm based in Iraq<br><br>🧠  I'm learning JavaScript, React, and Ruby from Microverse.<br><br>🤝  I'm open to collaborating on I’m looking to collaborate on new software development projects.</h3>
 
 ###
 
@@ -39,11 +39,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m00h0&show_icons=true&locale=en&layout=compact" alt="m00h0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m00h0&" alt="m00h0" /></p>
 
 ###
